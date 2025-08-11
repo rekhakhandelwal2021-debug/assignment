@@ -1,13 +1,33 @@
-# MMTTP CBPAI Assignments – Dr. Rekha Khandelwal
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
 
-This repository contains the HTML, CSS, and images for the MMTTP CBPAI assignments submission.
-
-## How to Upload to GitHub Pages
-1. Go to your GitHub repository (named `username.github.io`).
-2. Upload the `index.html`, `style.css`, and `images/` folder.
-3. Commit changes.
-4. Go to Settings → Pages → Set source to `main` branch.
-5. Your site will be available at `https://username.github.io`.
-
----
-© 2025 Dr. Rekha Khandelwal
